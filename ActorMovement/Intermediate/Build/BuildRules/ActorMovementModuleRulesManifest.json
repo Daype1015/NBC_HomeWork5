@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\ActorMovement\\Source\\ActorMovement\\ActorMovement.Build.cs",
+		"D:\\Unreal Projects\\ActorMovement\\Source\\ActorMovement.Target.cs",
+		"D:\\Unreal Projects\\ActorMovement\\Source\\ActorMovementEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

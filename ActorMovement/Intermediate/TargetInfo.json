@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ActorMovement",
+			"Path": "..\\Source\\ActorMovement.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ActorMovementEditor",
+			"Path": "..\\Source\\ActorMovementEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
